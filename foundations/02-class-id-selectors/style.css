@@ -1,27 +1,24 @@
 /* styles.css */
 
-.n1,
-.n3,
-.n5 {
+.odd {
     background-color: #f05785;
     color: rgb(2, 2, 2);
     font-family: Verdana, "DejaVu Sans", sans-serif;
     
 }
-.n3{
+.adjust-font-size{
     font-size: 24px;
 }
 
 
-#n2{
+#two{
     color: #0000ff;
     font-size: 36px;
 }
 
 
 
-#n4{
+#four{
     background-color: #09f309;
-    font-size: 24px;
     font-weight: bold;
 }
